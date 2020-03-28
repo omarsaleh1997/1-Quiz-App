@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+this app present the basics of flutter and dart 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
